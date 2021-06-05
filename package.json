@@ -4,7 +4,7 @@
     "@bazel/buildifier": "^4.0.0",
     "@bazel/ibazel": "^0.14.0",
     "@bazel/jasmine": "^3.5.1",
-    "@bazel/typescript": "^3.2.3",
+    "@bazel/typescript": "^3.5.1",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@testing-library/user-event": "^12.7.0",
