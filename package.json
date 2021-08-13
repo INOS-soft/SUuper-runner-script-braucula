@@ -3,7 +3,7 @@
     "@babel/preset-react": "^7.12.13",
     "@bazel/buildifier": "^4.0.0",
     "@bazel/ibazel": "^0.15.10",
-    "@bazel/jasmine": "^3.5.1",
+    "@bazel/jasmine": "^3.8.0",
     "@bazel/typescript": "^3.5.1",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.5",
