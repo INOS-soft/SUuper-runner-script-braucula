@@ -1247,10 +1247,10 @@
     c8 "~7.5.0"
     jasmine-reporters "~2.4.0"
 
-"@bazel/typescript@^3.5.1":
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-3.5.1.tgz#c6027d683adeefa2c3cebfa3ed5efa17c405a63b"
-  integrity sha512-dU5sGgaGdFWV1dJ1B+9iFbttgcKtmob+BvlM8mY7Nxq4j7/wVbgPjiVLOBeOD7kpzYep8JHXfhAokHt486IG+Q==
+"@bazel/typescript@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-4.0.0.tgz#71a6f0f5e340c6b8516b21fbc0f0853e74055d0c"
+  integrity sha512-+Le9q+5IR9gEnSH8sXyxDB5dD6NJx2kbm6AL+cijYVat2MczpGV4sI1mu0mdLzYsEX5Tjt5iHkaNb7sFESjnYA==
   dependencies:
     protobufjs "6.8.8"
     semver "5.6.0"
