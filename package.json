@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@babel/preset-react": "^7.12.13",
+    "@babel/preset-react": "^7.16.5",
     "@bazel/buildifier": "^4.0.0",
     "@bazel/ibazel": "^0.15.10",
     "@bazel/jasmine": "^3.5.1",
