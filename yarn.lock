@@ -1229,10 +1229,10 @@
     "@babel/helper-validator-identifier" "^7.14.0"
     to-fast-properties "^2.0.0"
 
-"@bazel/buildifier@^4.0.0":
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-4.0.1.tgz#52cfbad5cbb86e9183a29dde2370cd465730ea0d"
-  integrity sha512-BTmtvJbeeEVrqRApI1gr5hvPgYcHLpdGJ5EXNXEWO692ztMPSj5fB/dH0xUlaW45jn6LimYx8ymqTMhj3538og==
+"@bazel/buildifier@^5.0.0":
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/@bazel/buildifier/-/buildifier-5.0.0.tgz#cea8b46159273ec0c815674ea34b4f06506a2714"
+  integrity sha512-HYgyA69tppbFTBTj3y81PDxWE9FGOPcN1zu9g767vzT+YWKvUjlXRg73Wdf/xmOS/pZaLWC2d9DOXsvBmh8qzg==
 
 "@bazel/ibazel@^0.15.10":
   version "0.15.10"
