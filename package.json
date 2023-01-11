@@ -1,7 +1,7 @@
 {
   "devDependencies": {
     "@babel/preset-react": "^7.12.13",
-    "@bazel/buildifier": "^4.0.0",
+    "@bazel/buildifier": "^6.0.0",
     "@bazel/ibazel": "^0.15.10",
     "@bazel/jasmine": "^3.5.1",
     "@bazel/typescript": "^3.5.1",
